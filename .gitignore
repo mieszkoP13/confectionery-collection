@@ -1,0 +1,26 @@
+# Ignore blend backup files
+*.blend1
+*.blend2
+
+# Ignore blender temp files
+*.blend@
+
+# Ignore blender quit files
+*.blend.quit
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore render results
+# *.png
+# *.jpg
+# *.exr
+# *.hdr
+# *.tiff
+
+# Ignore crash logs
+blender.crash.txt
+
+# Ignore caches
+cache_*
